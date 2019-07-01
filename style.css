@@ -1,0 +1,110 @@
+@charset "gb2312";
+body {
+	font-family: "Î¢ÈíÑÅºÚ", "ºÚÌå", "ËÎÌå";
+	font-size: 14px;
+	margin-left: 0px;
+	margin-top: 20px;
+	background-color: #FFF;
+	background-repeat: repeat-x;
+	background-image: url(img/bg01.jpg);
+}
+#guide {
+	width:204px;
+	font-size:36px;
+	font-weight:bold;
+	text-align: right;
+	vertical-align: bottom;
+	float: left;
+	overflow: visible;
+	position: relative;
+	visibility: visible;
+	margin-top: 20px;
+}
+#guide a:link{
+	color:#F60;
+	text-decoration: none;
+}
+#guide a:hover{
+	color:#F60;
+	text-decoration: underline;
+}
+#guide a:active{
+	color:#F60;
+	text-decoration: none;
+}
+#guide a:visited{
+	color:#F60;
+	text-decoration: none;
+}
+a:link {
+	color:#960;
+	text-decoration: none;
+}
+a:visited {
+	color:#960;
+	text-decoration: none;
+}
+a:hover {
+	color:#F00;
+	text-decoration: underline;
+}
+a:active {
+	color:#960;
+	text-decoration: none;
+}
+#top {
+	vertical-align: baseline;
+	text-align: right;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #960;
+}
+#guestbook {
+	color: #930;
+	background-image: url(img/bgcat1.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#catinfo {
+	color: #930;
+}.inputname {
+	border-bottom-width: thin;
+	border-bottom-style: dotted;
+	border-bottom-color: #900;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+}
+#say {
+	float: left;
+	height: 100px;
+	width: 230px;
+	position: relative;
+	border-bottom: thin dashed #000;
+	border-right: thin dashed #000;
+	margin: 3px;
+	padding: 2px;
+	overflow:hidden;
+	font-size: 12px;
+	color: #F60;
+}
+#say:hover {
+	cursor:pointer;
+	background-color:#FFC;
+	overflow:auto;
+}
+#say2{
+	font-size: 14px;
+	color:#930;
+}#beian {
+	font-size: 11px;
+	color: #999;
+	text-align: right;
+}
+#other_links {
+	cursor: pointer;
+}
+#zhengwen {
+	font-size: 14px;
+	color: #930;
+}
