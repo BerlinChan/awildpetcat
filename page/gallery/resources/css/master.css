@@ -19,7 +19,6 @@ body, h1, h2, h3, h4, h5, h6, p, a {
 	background-color:inherit;
 	color: #b3b3b3;
 	font-size: 12px;
-	font-family: helvetica, arial, tahoma, verdana, sans-serif;
 }
 /* LINKS */
 a, a:link, a:hover {
@@ -467,7 +466,7 @@ width: 804px /*5 x CellWidth + 4px Gap*/
 
 
 .dropShadow:before, .dropShadow:after {
-	background: inherit;	
+	background: inherit;
 	content: " ";
 	display: block;
 	height: 10px;
