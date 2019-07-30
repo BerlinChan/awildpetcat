@@ -74,55 +74,19 @@ a:active {
     color: #930;
     background-image: url(img/bgcat1.png);
     background-repeat: no-repeat;
-    background-position: bottom;
+    background-position: top;
 }
 
 #catinfo {
     color: #930;
 }
 
-.inputname {
-    border-bottom-width: thin;
-    border-bottom-style: dotted;
-    border-bottom-color: #900;
-    border-top-width: 0px;
-    border-right-width: 0px;
-    border-left-width: 0px;
-}
-
-#say {
-    float: left;
-    height: 100px;
-    width: 230px;
-    position: relative;
-    border-bottom: thin dashed #000;
-    border-right: thin dashed #000;
-    margin: 3px;
-    padding: 2px;
-    overflow: hidden;
-    font-size: 12px;
-    color: #F60;
-}
-
-#say:hover {
-    cursor: pointer;
-    background-color: #FFC;
-    overflow: auto;
-}
-
-#say2 {
-    font-size: 14px;
-    color: #930;
-}
-
 #beian {
-    font-size: 11px;
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 12px;
     color: #999;
     text-align: right;
-}
-
-#other_links {
-    cursor: pointer;
 }
 
 #zhengwen {
