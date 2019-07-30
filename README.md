@@ -1,2 +1,2 @@
-# 纪录片《自由的家猫》主题站
-[https://berlinchan.github.io/awildpetcat](https://berlinchan.github.io/awildpetcat)
+# 纪录片《自由的家猫》官方站
+[www.awildpetcat.com](https://www.awildpetcat.com/)
