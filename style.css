@@ -81,7 +81,12 @@ a:active {
     color: #930;
 }
 
-#zhengwen {
+.zhengwen {
     font-size: 14px;
     color: #930;
+}
+
+.zhengwen p {
+    text-indent: 2rem;
+    margin: 0;
 }
