@@ -3,7 +3,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url/https/BerlinChanCom?style=social)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/98fae981-45ab-4e2a-bbb7-c89698d4790f/deploy-status)](https://app.netlify.com/sites/awildpetcat/deploys)
 
-[www.awildpetcat.com](https://www.awildpetcat.com/)
+[www.aWildPetCat.com](https://www.awildpetcat.com/)
 
 ![cover](https://awildpetcat.com/page/gallery/content/images/large/DSC_1286.jpg)
 
@@ -20,7 +20,7 @@
 - 导演: 陈柏林
 - 编剧: 陈柏林
 - 主演: 大洋芋（猫）
-- 官方网站: [www.awildpetcat.com](https://www.awildpetcat.com/)
+- 官方网站: [www.aWildPetCat.com](https://www.awildpetcat.com/)
 
 ## 简介
 一只生活在城市里叫做“大洋芋”的猫，她受尽宠爱又自由自在。从陌生到熟悉，我陪伴她经历开心或受伤，看过她成长和养育后代……认识大洋芋，读懂了猫，更读懂了勇气、机智、自立、责任还有爱。
