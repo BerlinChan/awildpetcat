@@ -1,4 +1,8 @@
 # 纪录片《自由的家猫》官方站
+![Website](https://img.shields.io/website/https/awildpetcat.com)
+![Twitter URL](https://img.shields.io/twitter/url/https/BerlinChanCom?style=social)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98fae981-45ab-4e2a-bbb7-c89698d4790f/deploy-status)](https://app.netlify.com/sites/awildpetcat/deploys)
+
 [www.awildpetcat.com](https://www.awildpetcat.com/)
 
 ![cover](https://awildpetcat.com/page/gallery/content/images/large/DSC_1286.jpg)
